@@ -307,6 +307,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Avi Douglen
 1. Avital Kelman
 1. Avi Zajac
+1. Aymen Abdelwahab Lakhdar (Concorde interactive Technologies LLC)
 1. Bailey (the2048)
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
@@ -1223,7 +1224,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonathan Poritz
 1. Joni Carr
 1. Jon Langseth
-1. Jonny Spicer
 1. Jordan Hefcart
 1. Jordan Petridis (GNOME)
 1. Jordan T. Thevenow-Harrison
@@ -1367,7 +1367,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
 1. Kurt Garloff (Sovereign Cloud Stack, Open Infrastructure Foundation BoD)
 1. Kushal Das (Tor Project core team, Python Core developer, Fedora Project contributor)
-1. Kyle Kneitinger
 1. Kyle Mitchell
 1. Kyle Riedemann
 1. Kyle Robbertze (Debian Developer)
@@ -2003,7 +2002,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam van der Kris
 1. Sander Steffann (@sjmsteffann / sjms)
 1. Sander van der Waal (Waag)
-1. Sandra McCann (samccann)
 1. Sandro Jäckel (NixOS contributor)
 1. Sandro Knauß (Debian, KDE)
 1. Santeri Kasvi
@@ -2331,7 +2329,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Youko Omori (Collabora)
 1. Youngbin Han (Ubuntu Korea Community)
 1. Young Hun Kim
-1. Youness Alaoui (@kakaroto)
 1. Yo Yehudi (Co-founder of Open Life Science)
 1. Yuval Adam
 1. Yuvi Panda (Project Jupyter)
